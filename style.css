@@ -1,0 +1,20 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#imgPerfil {
+    border-radius: 20px;
+    border: dashed 2px;
+    border-color: red;
+}
+
+#biografia {
+    width: 40vw;
+}
+
+h2{
+    font-size: 40px;
+    color:darkblue;
+}
+
